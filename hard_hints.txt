@@ -1,0 +1,8 @@
+1,Across,What Sherlock Holmes solves
+2,Down,Opposite of success
+3,Across,It might be kicked or thrown or bowled
+4,Across,Aquatic mammal with flippers
+5,Across,Green or black often served hot
+6,Across,A sprint or marathon
+7,Down,opposite of finish
+8,Down,Hidden meaning or a direct communication

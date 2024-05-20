@@ -1,0 +1,4 @@
+1,Across,An accounting of facts
+2,Down,Completely baffled or unaware
+3,Down,Aggressively Confront
+4,Across,Morals

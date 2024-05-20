@@ -1,0 +1,4 @@
+1,Across,Seen both at the zoo and on an envelope
+2,Down,A wake-up drink for many around the world
+3,Across,It's what your tongue is for
+4,Up,A location or place
